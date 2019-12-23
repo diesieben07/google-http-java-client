@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.34.1](https://www.github.com/googleapis/google-http-java-client/compare/v1.34.0...v1.34.1) (2019-12-23)
+
+
+### Documentation
+
+* libraries-bom 3.3.0 ([#921](https://www.github.com/googleapis/google-http-java-client/issues/921)) ([7e0b952](https://www.github.com/googleapis/google-http-java-client/commit/7e0b952a0d9c84ac43dff43914567c98f3e81f66))
+
 ## [1.34.0](https://www.github.com/googleapis/google-http-java-client/compare/v1.33.0...v1.34.0) (2019-12-17)
 
 
